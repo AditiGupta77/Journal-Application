@@ -1,5 +1,9 @@
 # JournalApp
 
+
+## Demo Video
+https://github.com/AditiGupta77/Journal-Application/assets/113333470/aadd86de-88fd-4e5e-b6e2-5f478fd80830
+
 ## Overview
 
 Welcome to JournalApp, your personal space for keeping and showcasing diary entries with details such as date, start time, and end time. 
